@@ -4,11 +4,8 @@
 
 ##### Developer Info
 
-[Musiur_Alam_Opu]
-`BSc in Computer Science and Engineering`
-[North_South_University]
-`learner at {`Programming Hero`}`
-[Web_developement_with_JhankarMahbub]
+MD. Shakhwat Hossain
+Rezwan Khan
 
 ---
 
