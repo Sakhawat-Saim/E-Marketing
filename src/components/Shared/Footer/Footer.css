@@ -1,0 +1,12 @@
+#footerSuperDiv{
+    background-image: url('./Marketing.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+#footerSubDiv1{
+    background-color: rgba(0, 10, 31, 0.897);
+    height: auto;
+    text-align: center;
+    padding-bottom: 10%;
+}

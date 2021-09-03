@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Pavement of Suburban",
+        "header": "PUBLIC ADVERTISEMENT",
+        "imageUrl": "https://i.ibb.co/SrVfvBZ/project-Image1.png",
+        "progress": "55%"
+    },
+    {
+        "id": 2,
+        "title": "The Plague Was Not Raw",
+        "header": "FACEBOOK CAMPAIGN",
+        "imageUrl": "https://i.ibb.co/2nrsvPW/project-Image2.png",
+        "progress": "40%"
+    },
+    {
+        "id": 3,
+        "title": "Bullet of Toad",
+        "header": "USER EXPERIENCE",
+        "imageUrl": "https://i.ibb.co/sJJZHTm/project-Image3.png",
+        "progress": "99%"
+    },
+    {
+        "id": 4,
+        "title": "Ape Jackal",
+        "header": "PHOTOGRAPHY",
+        "imageUrl": "https://i.ibb.co/RCWvbGM/project-Image4.png",
+        "progress": "50%"
+    },
+    {
+        "id": 5,
+        "title": "Cold Plans",
+        "header": "INBOUND FUNNEL",
+        "imageUrl": "https://i.ibb.co/hgVwTc9/project-Image5.png",
+        "progress": "90%"
+    },
+    {
+        "id": 6,
+        "title": "The Elysium-Creek",
+        "header": "CUSTOMER STORY",
+        "imageUrl": "https://i.ibb.co/SsVxSCW/project-Image6.png",
+        "progress": "70%"
+    }
+]

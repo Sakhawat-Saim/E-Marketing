@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Business strategy & branding",
+        "description": "Modern businesses require data-driven solutions. As a marketing agency, we take both a quantitative and qualitative approach to achieving business outcomes.",
+        "imageUrl": "https://i.ibb.co/TPy2c4g/Business-And-Stratigy.png",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "title": "Web design & Development",
+        "description": "We design and develop beautiful digital properties. Our goal is to make sure that every experience is intuitive, engaging, and optimized for conversions.",
+        "imageUrl": "https://i.ibb.co/cNZDCP4/Web-Design-And-Developement.png",
+        "price": 1000
+    },
+    {
+        "id": 3,
+        "title": "Marketing & Communications",
+        "description": "Our multi-channel creative and digital strategies deliver the right message to the right audience at the right time, creating more meaningful connections.",
+        "imageUrl": "https://i.ibb.co/yPbdwcg/Marketing-And-Communication.png",
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "title": "Customer & Client Funnel Mapping",
+        "description": "Modern businesses require data-driven solutions. As a marketing agency, we take both a quantitative and qualitative approach to achieving business outcomes.",
+        "imageUrl": "https://i.ibb.co/5KYtj3R/Customer-And-Client-Fun-Mapping.png",
+        "price": 1000
+    }
+]

@@ -1,0 +1,13 @@
+#serviesCard {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: 0.5s;
+}
+
+#serviesCard:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+  transform: scale(1.05);
+  box-shadow: 0px 2px 5px rgb(204, 204, 204);
+  /* color: #ffbc02; */
+}

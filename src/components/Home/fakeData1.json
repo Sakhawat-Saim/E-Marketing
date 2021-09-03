@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://i.ibb.co/tCFKzQk/discussion.jpg",
+        "description": "Being data-driven means that everything should be quantifiable and translate back to revenue. Our first step is to align the executive leadership team’s goals, and understand the growth drivers of the business. Then, we begin to reverse engineer creative solutions.",
+        "title":"Initiate a discussion alignment with clientele"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://i.ibb.co/RQHJQH7/Communication-flat-icon-Department-leaders-laptop-presentation-gear-Teamwork-concept-Can-be-used-for.jpg",
+        "description": "Being data-driven means that everything should be quantifiable and translate back to revenue. Our first step is to align the executive leadership team’s goals, and understand the growth drivers of the business. Then, we begin to reverse engineer creative solutions.",
+        "title":"Do the daily sprint"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://i.ibb.co/4Ym9098/men-success-laptop-relieve-work-from-home-computer-great.jpg",
+        "description": "Being data-driven means that everything should be quantifiable and translate back to revenue. Our first step is to align the executive leadership team’s goals, and understand the growth drivers of the business. Then, we begin to reverse engineer creative solutions.",
+        "title":"Bring user experience to the final client test"
+    }
+]
+
+

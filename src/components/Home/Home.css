@@ -1,0 +1,29 @@
+#bannerContainer{
+    transition: 1s;
+}
+#body{
+    background-color: #f8fdff;
+}
+@media (min-width: 992px) {
+    #bannerContainer{
+        display: flex;
+    }
+    #sectionSectionDiv{
+        display: flex;
+    }
+    #reviewSectionDiv{
+        display: flex;
+    }
+    .bannerDivs{
+        width: 50%;
+    }
+    .serviesDivs{
+        width: 50%;
+    }
+    .reviewDivs{
+        width: 50%;
+    }
+    #bannerParagraph{
+        font-size: 40px!important;
+    }
+}
