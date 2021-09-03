@@ -38,16 +38,3 @@ More Specifically
 **Extra_Feature**
 ------About Page
 ------How we do Section > at Home page
-**Links**
-
-### -------Visit the site through the link
-
-    `https://emarketing-c2023.web.app/`
-
-### -------My github client site repository link is
-
-    `https://github.com/MusiurAlamOpu/eMarketing`
-
-### -------My github server site repository link is
-
-    `https://github.com/MusiurAlamOpu/eMarketingServer.git`
